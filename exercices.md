@@ -4,13 +4,11 @@
   </a>
 </p>
 
-<section class="row">
-  <div class="mx-auto">
-    <a class="btn btn-outline-primary" href="../../pdf/exercices/Puissance_act_react3_ex.pdf">Puissances réactives</a>
-    <a class="btn btn-outline-primary" href="#">Traffic</a>
-    <a class="btn btn-outline-primary" href="#">MAC Monitoring</a>
-    <a class="btn btn-outline-primary" href="#">Alert Logging</a>
-    <a class="btn btn-outline-primary" href="#">Diameter Server</a>
-    <a class="btn btn-outline-primary" href="#">Maintenance Mode</a>
-  </div>
-</section>
+
+
+
+ <div class="btn-group btn-group-justified">
+  <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-primary">Puissances réactives</a>
+  <a href="#" class="btn btn-primary">Samsung</a>
+  <a href="#" class="btn btn-primary">Sony</a>
+</div> 
