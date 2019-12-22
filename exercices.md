@@ -5,13 +5,13 @@
 </p>
 
 <div class="btn-group btn-group-justified">
-  <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-primary">Puissances réactives</a>
+  <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-primary btn-xs">Puissances réactives</a>
   <a href="#" class="btn btn-primary">Samsung</a>
   <a href="#" class="btn btn-primary">Sony</a>
 </div> 
  <div class="btn-group btn-group-justified">
   <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-success">Puissances réactives</a>
   <a href="#" class="btn btn-primary">Samsung</a>
-  <a href="#" class="btn btn-primary">Sony</a>
-  <a href="#" class="btn btn-primary">Essai</a>
+  <a href="#" class="btn btn-primary btn-xs">Sony</a>
+  <a href="#" class="btn btn-primary btn-xs">Essai</a>
 </div> 
