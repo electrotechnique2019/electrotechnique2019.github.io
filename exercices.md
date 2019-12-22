@@ -5,7 +5,14 @@
 </p>
 
 
-
+<div class="container">
+  <div class="row row-cols-4">
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+  </div>
+</div>
 
  <div class="btn-group btn-group-justified">
   <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-primary">Puissances réactives</a>
