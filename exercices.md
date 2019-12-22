@@ -9,3 +9,13 @@
   <div class="d-flex justify-content-between">...</div>
   <div class="d-flex justify-content-around">...</div>
 </p>
+<section class="row">
+  <div class="mx-auto">
+    <a class="btn btn-outline-primary" href="#">Home</a>
+    <a class="btn btn-outline-primary" href="#">Traffic</a>
+    <a class="btn btn-outline-primary" href="#">MAC Monitoring</a>
+    <a class="btn btn-outline-primary" href="#">Alert Logging</a>
+    <a class="btn btn-outline-primary" href="#">Diameter Server</a>
+    <a class="btn btn-outline-primary" href="#">Maintenance Mode</a>
+  </div>
+</section>
