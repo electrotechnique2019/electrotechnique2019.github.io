@@ -27,6 +27,6 @@
 
 
 <table id="Table">
-    <tr><td><a onclick="" href="#"> cell </a></td></tr>
+    <tr><td><a onclick="" href="../../pdf/exercices/Puissance_act_react3_ex.pdf"> cell </a></td></tr>
     <tr><td> cell </td></tr>
 </table>
