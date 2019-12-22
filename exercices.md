@@ -13,4 +13,5 @@
   <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-success">Puissances réactives</a>
   <a href="#" class="btn btn-primary">Samsung</a>
   <a href="#" class="btn btn-primary">Sony</a>
+  <a href="#" class="btn btn-primary">essi>
 </div> 
