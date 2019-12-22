@@ -14,7 +14,7 @@
   </div>
 </div>
 
-<h5>Puissances AC</h5>
+
 <div class="row">
   <div class="btn-group btn-group-justified">
     <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-success btn-xs">Puissances réactives</a>
@@ -23,3 +23,4 @@
     <a href="#" class="btn btn-primary btn-xs">Essai</a>
   </div>
 </div>
+<h5>Puissances AC</h5>
