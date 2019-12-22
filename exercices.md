@@ -5,7 +5,7 @@
 </p>
 <section class="row">
   <div class="mx-auto">
-    <a class="btn btn-outline-primary" href="#">Home</a>
+    <a class="btn btn-outline-primary" href="pdfs/electrotechnique/Puissance_act_react3_ex.pdf">Puissances réactives</a>
     <a class="btn btn-outline-primary" href="#">Traffic</a>
     <a class="btn btn-outline-primary" href="#">MAC Monitoring</a>
     <a class="btn btn-outline-primary" href="#">Alert Logging</a>
