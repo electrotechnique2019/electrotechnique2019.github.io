@@ -786,8 +786,3 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
-
-.d-inline.mx-auto.center {
-    text-align:center!important;
-    display:block!important;
-}
