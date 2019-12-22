@@ -4,7 +4,7 @@
   </a>
 </p>
 
- <div class="btn-group btn-group-justified">
+<div class="btn-group btn-group-justified">
   <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-primary">Puissances réactives</a>
   <a href="#" class="btn btn-primary">Samsung</a>
   <a href="#" class="btn btn-primary">Sony</a>
