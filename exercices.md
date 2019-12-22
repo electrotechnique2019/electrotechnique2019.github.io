@@ -6,7 +6,7 @@
 
 <section class="row">
   <div class="mx-auto">
-    <a class="btn btn-outline-primary" href="pdfs/exercices/Puissance_act_react3_ex.pdf">Puissances réactives</a>
+    <a class="btn btn-outline-primary" href="pdf/exercices/Puissance_act_react3_ex.pdf">Puissances réactives</a>
     <a class="btn btn-outline-primary" href="#">Traffic</a>
     <a class="btn btn-outline-primary" href="#">MAC Monitoring</a>
     <a class="btn btn-outline-primary" href="#">Alert Logging</a>
