@@ -1,3 +1,8 @@
+.d-inline.mx-auto.center {
+    text-align:center!important;
+    display:block!important;
+}
+
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet"/>
 <p align="center">
   <a href="https://getbootstrap.com/">
