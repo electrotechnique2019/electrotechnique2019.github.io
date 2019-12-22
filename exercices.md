@@ -8,9 +8,9 @@
 
 <div class="row">
   <div class="btn-group btn-group-justified">
-    <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-primary btn-xs">Puissances réactives</a>
-    <a href="#" class="btn btn-primary btn-xs">Samsung</a>
-    <a href="#" class="btn btn-primary btn-xs">Sony</a>
+    <a href="../../pdf/exercices/Puissance_act_react3_ex.pdf" class="btn btn-primary btn-xs col-sm-1">Puissances réactives</a>
+    <a href="#" class="btn btn-primary btn-xs col-sm-1">Samsung</a>
+    <a href="#" class="btn btn-primary btn-xs col-sm-1">Sony</a>
   </div>
 </div>
 
