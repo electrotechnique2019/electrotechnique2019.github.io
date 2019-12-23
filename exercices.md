@@ -43,3 +43,18 @@
       <div class="col-sm bg-warning">4 of 4</div>
     </div>  
   </div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8">
+   dfafga
+  </div>
+  <div class="col-xs-6 col-md-4">
+   adfgadfg
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-sm-4">
+   adfbnvcnvn
+  </div>
+  <div class="col-xs-6 col-sm-4">
+   kjéklé
+  </div>
