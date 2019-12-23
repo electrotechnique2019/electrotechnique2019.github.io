@@ -34,3 +34,12 @@
     </div>
   </div>
 </div> 
+  <p>Four columns: 25% width on all screens, except for extra small (100% width on screens less than <strong>576px</strong> wide)</p>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm bg-success">1 of 4</div>
+      <div class="col-sm bg-warning">2 of 4</div>
+      <div class="col-sm bg-success">3 of 4</div>
+      <div class="col-sm bg-warning">4 of 4</div>
+    </div>  
+  </div>
