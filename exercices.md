@@ -24,15 +24,13 @@
   </div>
 </div>
 <h5>Puissances AC</h5>
-<div class="container">
+ <div class="container">
   <div class="row">
-    <div class="col">col</div>
-    <div class="col">col</div>
-    <div class="col">col</div>
-    <div class="col">col</div>
+    <div class="col-sm-6 bg-success">
+      <p>Lorem ipsum...</p>
+    </div>
+    <div class="col-sm-6 bg-warning">
+      <p>Sed ut perspiciatis...</p>
+    </div>
   </div>
-  <div class="row">
-    <div class="col-8">col-8</div>
-    <div class="col-4">col-4</div>
-  </div>
-</div>
+</div> 
